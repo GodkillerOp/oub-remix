@@ -234,9 +234,9 @@ async def amireallyalive(alive):
              f"`The Champion 🔥 \n"
              f"`Toxic Level Infinity 🖕 \n"
              f"==================================== \n"
-             f"User 👨‍🚀: {DEFAULTUSER} \n"
-             f"Maintainer 🏄‍♂️: @heyworld \n"
-             f"Bot Uptime 🕒: {uptime} \n"
+             f"`User 👨‍🚀`: {DEFAULTUSER} \n"
+             f"`Maintainer 🏄‍♂️`: @heyworld \n"
+             f"`Bot Uptime ⏱️`: {uptime} \n"
              f"====================================\n")
     if ALIVE_LOGO:
         try:
